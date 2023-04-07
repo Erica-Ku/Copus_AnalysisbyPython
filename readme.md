@@ -6,3 +6,4 @@
 - British National Corpus 단어 모음 분석
 - 가장 많이 사용된 영어 단어 분석
 - 단어별 사용 빈도를 보여주는 막대 그래프 작성: matplotlib 사용
+- 참고 출처: https://limjun92.github.io/
